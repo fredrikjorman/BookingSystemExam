@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="DEBUGGING.md" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="src/BookingSystem/BookingSystem.csproj" />
   <Project Path="tests/BookingSystem.Tests/BookingSystem.Tests.csproj" />
 </Solution>
